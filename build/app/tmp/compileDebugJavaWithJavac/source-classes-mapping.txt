@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/erenk/flutter_lovers/BuildConfig.java
+ com.erenk.flutter_lovers.BuildConfig

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1005090212585",
+    "project_id": "flutterlovers-eb925",
+    "storage_bucket": "flutterlovers-eb925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005090212585:android:314575dd0ceae4c034fe78",
+        "android_client_info": {
+          "package_name": "com.erenk.flutter_lovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005090212585-iglhd349uablg0oa9glmuqjdkpi1a1js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erenk.flutter_lovers",
+            "certificate_hash": "31ffd43901ffa9982843e8faadd58a9e695cbdb7"
+          }
+        },
+        {
+          "client_id": "1005090212585-bm700arghr3ofuvifsg8c77fh6k3t7dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70ni4qdK7Tdt3HS-KCaxWlH0NMdZnHTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005090212585-bm700arghr3ofuvifsg8c77fh6k3t7dr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005090212585-ej9q9p9nt6frb2i8a7scusri5jl3fdbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erenk.flutterLovers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

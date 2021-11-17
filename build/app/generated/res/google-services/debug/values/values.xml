@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1005090212585-bm700arghr3ofuvifsg8c77fh6k3t7dr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1005090212585</string>
+    <string name="google_api_key" translatable="false">AIzaSyB70ni4qdK7Tdt3HS-KCaxWlH0NMdZnHTc</string>
+    <string name="google_app_id" translatable="false">1:1005090212585:android:314575dd0ceae4c034fe78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB70ni4qdK7Tdt3HS-KCaxWlH0NMdZnHTc</string>
+    <string name="google_storage_bucket" translatable="false">flutterlovers-eb925.appspot.com</string>
+    <string name="project_id" translatable="false">flutterlovers-eb925</string>
+</resources>
